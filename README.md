@@ -5,12 +5,12 @@
 
   <br/><br/>
 
-  <!-- Animated typing / title -->
+  <!-- Title & Age -->
   <h1>Hi there, I'm <span style="color: #7aa2f7;">f1entx</span> 👋</h1>
   <p><em>14 y/o passionate software developer & tech enthusiast</em></p>
 
-  <!-- Profile views counter -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=708238&style=flat-square" alt="Profile Views" />
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=f1entx&label=Profile%20Views&color=708238&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -18,9 +18,9 @@
 
 ### 💫 About Me
 
-- 💻 I am a **14-year-old developer** who loves turning complex ideas into clean, functional code.
-- ⚡ Constantly building software, experimenting with architecture, and exploring low-level mechanics.
-- 🎯 Always learning, breaking things, and leveling up my stack every day.
+- 💻 I am a **14-year-old developer** passionate about writing clean, efficient, and reliable code.
+- ⚡ Focused on full-stack web solutions, native system development, and backend architectures.
+- 🎯 Always exploring new technologies, refining software performance, and building side projects.
 - 💬 Ask me about: **Next.js, C++, Java, or Python**.
 
 ---
@@ -41,12 +41,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=f1entx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="f1entx GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f1entx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=f1entx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -54,10 +54,7 @@
 ### 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+  <a href="https://t.me/f1entx" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
