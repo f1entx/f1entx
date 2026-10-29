@@ -21,9 +21,13 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   </p>
 
-  <p align="center">
+  <p>
     <img src="https://github-readme-stats.vercel.app/api?username=f1entx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="135" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f1entx&layout=compact&theme=tokyonight&hide_border=true" height="135" alt="Top Langs" />
+  </p>
+
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=f1entx&theme=tokyonight&hide_border=true" height="135" alt="GitHub Streak" />
   </p>
 
 </div>
